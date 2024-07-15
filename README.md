@@ -1,4 +1,6 @@
 # FMCG-Sales-Dashboard
+![image](https://github.com/user-attachments/assets/ea120573-ef69-482f-ad86-58d5a152a700)
+
 This FMCG (Fast-Moving Consumer Goods) Sales Dashboard provides an overview of year-to-date (YTD) sales data for 2024.
 Here is a detailed explanation of the various sections and metrics presented in the dashboard:
 
