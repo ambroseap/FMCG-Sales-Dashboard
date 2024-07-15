@@ -25,9 +25,10 @@ Here is a detailed explanation of the various sections and metrics presented in 
         PHC also shows a decrease in sales, similar to Abuja.
 
 ### Top 10 Sales Reps with Most Sales
-    Bar Chart: Lists the top 10 sales representatives and their respective sales figures.
-        Kingsley Okeke is the top sales rep with 1,165,879,328 in sales.
-        The next top sales reps include Chinedu Obetta, Gabriel Bolaji, and Tony Otaru, with sales ranging from 850,424,864 to 984,212,576.
+Bar Chart: Lists the top 10 sales representatives and their respective sales figures.
+Kingsley Okeke is the top sales rep with 1,165,879,328 in sales.
+The next top sales reps include Chinedu Obetta, Gabriel Bolaji, 
+and Tony Otaru, with sales ranging from 850,424,864 to 984,212,576.
 
 ### Top 10 Most Sold Items
 Bar Chart: Lists the top 10 items with the highest sales volume.
